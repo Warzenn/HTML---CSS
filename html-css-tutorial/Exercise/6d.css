@@ -1,0 +1,19 @@
+p {
+  font-family: montserrat;
+  font-size: 18px;
+  margin-top: 0;
+  margin-bottom: 0;
+  text-align: center;
+}
+
+.title {
+  font-size: 35px;
+  font-family: bold;
+  margin-bottom: 10px;
+
+}
+
+.underlined {
+
+  text-decoration: underline;
+}
